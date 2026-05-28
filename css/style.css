@@ -1,0 +1,67 @@
+body {
+    background-color: #7288AE;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    background-color: #111844;
+    color: #fff;
+    padding: 20px;
+}
+
+.heading {
+    font-size: 0.8rem;
+    text-align: center;
+    justify-content: center;
+}
+
+.heading h1 {
+     letter-spacing: 3px;
+}
+
+#searchInput {
+    background-color: #4B5694;
+    border: none;
+    padding: 5px 15px;
+    color: #fff;
+    border-radius: 50px;
+}
+
+#submitBtn {
+    background-color: #111844;
+    border: none;
+    font-weight: bold;
+}
+
+#submitBtn:hover {
+    background-color: #363738;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+h5 {
+    font-weight: bold;
+}
+
+.card {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    background-color: #FFF0E4;
+}
+
+#editTaskModal .modal-dialog {
+    background-color: #FFF0E4;
+}
+
+.badge {
+    font-size: 0.85rem;
+    border-radius: 50px;
+    justify-content: center;
+    padding: 0.5em 0.75em;
+}
+
+tr:hover {
+    background-color: #f1f3f5 !important;
+}
